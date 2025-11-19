@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'backend80'
           slot-name: 'Production'
-          package: ./backend
+          package: .
           
